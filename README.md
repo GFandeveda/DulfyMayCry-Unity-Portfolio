@@ -30,7 +30,7 @@ Projeto criado para praticar e desenvolver conhecimentos em C# e desenvolvimento
 
 ## 🎥 Gameplay
 
-[Assista ao gameplay](SEU-LINK-AQUI)
+[Assista ao gameplay][(SEU-LINK-AQUI)](https://youtu.be/rhqoI7q1p_o)
 
 ## 📌 Status
 
